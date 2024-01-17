@@ -1,6 +1,6 @@
 ### Hello! I'm Kevin 👋
 
-I'm an Electrical Engineering student at University of California, San Diego specializing in machine learning and controls. I love learning new things and have a passion for becoming better each day. 
+I'm an Electrical Engineering student at University of California, San Diego specializing in [machine learning](https://github.com/kevshin2002/School-Projects/tree/main/Classifiers%20with%20MNIST) and [controls](https://github.com/kevshin2002/School-Projects/tree/main/Linear%20Control%20Systems). I love learning new things and have a passion for becoming better each day. 
 
 🔭 I’m currently working on my [Relational Database](https://github.com/kevshin2002/Relational-Database) and a [Leetcode Viewer](https://github.com/kevshin2002/Coding-Journey/tree/main/Leetcode/Leetcode) for my solutions. I'm also working on creating templatized [design patterns](https://github.com/kevshin2002/Coding-Journey/tree/main/Patterns/Design/Creational) so that I can use them without having to constantly rewrite them. 
 
