@@ -1,6 +1,6 @@
 ### Hello! I'm Kevin 👋
 
-I'm an Electrical Engineering student at University of California, San Diego. I love learning new things and have a passion for becoming better each day. My focus is in the intersection of [controls](https://github.com/kevshin2002/Controls), [machine learning](https://github.com/kevshin2002/ML-AI), and [software](https://github.com/kevshin2002/Software-Development)!
+I'm an Electrical Engineering student at University of California, San Diego. I love learning new things and have a passion for becoming better each day. My interest is in the intersection of [controls](https://github.com/kevshin2002/Controls), [machine learning](https://github.com/kevshin2002/ML-AI), and [software](https://github.com/kevshin2002/Software-Development)!
 
 
 ## Technologies
