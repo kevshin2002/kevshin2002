@@ -1,11 +1,8 @@
 ### Hello! I'm Kevin 👋
 
-I'm a Master's student within the Intelligent Systems, Robotics and Controls at University of California, San Diego. I also did my undergraduate curriculumn at UCSD!
+I'm a Master's student within the Intelligent Systems, Robotics and Controls at University of California, San Diego. I also did my undergraduate curriculum at UCSD!
 
-I love learning new things and have a passion for becoming better each day. My interest is in the intersection of [controls](https://github.com/kevshin2002/Controls), [machine learning](https://github.com/kevshin2002/ML-AI), and [software](https://github.com/kevshin2002/Software-Development)!
-
-I also have a dedicated repository for learning [new software idioms, pragma, design and scalability skills](https://github.com/kevshin2002/Coding-Journey).
-
+My undergraduate focus was within controls, software, machine learning, and robotics, but for my masters, I wish to focus more on SLAM and the intersection of it with computer vision! I believe that perception combined with sensor technologies is the foundation for autonomous environment understanding. Outside of school, I love learning new things and have a passion for becoming better each day. 
 
 ## Technologies
 **Main Programming Languages**
