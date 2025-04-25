@@ -6,6 +6,6 @@ My undergraduate focus was within controls, software, machine learning, and robo
 
 Currently, I am part of Triton AI and Triton Droids, where I contribute to software endeavors. 
 
-Triton AI - [Website](https://triton-ai.github.io) + Perception / LIDAR (TBD)
+Triton AI - [Website](https://triton-ai.github.io) + Perception / LIDAR (TBD) \
 Triton Droids - [Documentation](https://triton-droids.github.io/droid-docs/) + [Simulation](https://github.com/triton-droids/simulation/tree/objects)
 
