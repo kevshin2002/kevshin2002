@@ -1,4 +1,4 @@
-### Hello! I'm Kevin 👋
+### Hello! I am Kevin 👋
 
 I'm a Master's student within the Intelligent Systems, Robotics and Controls at University of California, San Diego. I also did my undergraduate curriculum at UCSD!
 
