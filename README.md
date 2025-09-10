@@ -9,7 +9,7 @@ My undergraduate focus was within controls, software, machine learning, and robo
 <a href="https://www.linkedin.com/in/kevshin2002/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:d3shin@ucsd.edu@ucsd.edu">
+<a href="mailto:d3shin@ucsd.edu">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
 </div>
