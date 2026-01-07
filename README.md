@@ -1,9 +1,9 @@
-### Hello! I'm Kevin 👋 
+### Hey, I'm Kevin 
+I'm a Master's student within the Intelligent Systems, Robotics and Controls at University of California, San Diego. 
 
-I'm a Master's student within the Intelligent Systems, Robotics and Controls at University of California, San Diego. I also did my undergraduate curriculum at UCSD!
+I mainly work on robotics relating to localization and perception. 
 
-My undergraduate focus was within controls, software, machine learning, and robotics, but for my masters, I wish to focus more on SLAM and the intersection of it with computer vision! I believe that perception combined with sensor technologies is the foundation for autonomous environment understanding. Outside of school, I love learning new things and have a passion for becoming better each day. 
-
+Currently Learning: <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white">
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/kevshin2002/">
