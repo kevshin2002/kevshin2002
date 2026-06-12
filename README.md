@@ -1,6 +1,4 @@
 ### Hey, I'm Kevin 
-I'm a Master's student within the Intelligent Systems, Robotics and Controls at University of California, San Diego. 
-
 I mainly work on robotics relating to localization and perception. 
 
 Currently Learning: <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white">
